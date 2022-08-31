@@ -1,3 +1,3 @@
-publik class Praktikum {
+public class Praktikum {
     Converter converter = new Converter ();
 }
